@@ -1,3 +1,3 @@
 # SSVEP eeg data 
 
-openbci!!
+openbci and hololens2 combination
