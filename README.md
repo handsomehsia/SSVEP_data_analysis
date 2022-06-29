@@ -1,3 +1,6 @@
 # SSVEP eeg data 
 
-openbci and hololens2 combination
+openbci and hololens combination 
+
+instant noodle is delicious!!!!
+
