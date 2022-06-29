@@ -1,0 +1,3 @@
+# SSVEP eeg data 
+
+openbci!!
